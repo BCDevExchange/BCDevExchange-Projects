@@ -1,0 +1,44 @@
+--- 
+
+# A Project Record
+#- 
+#  title:    #user friendly title for the project, suitable for display on BCDevExchange.org
+#  description:    #user friendly description of the project, suitable for display on BCDevExchange.org
+#  url:    #complete url of the project location. for project in GitHub, use repo url. 
+#  tags:     #any tags you want to associate with this project
+#      - 
+#  source:   #GitHub or other
+
+- 
+  title: Community Tools
+  description: BCDevExchange is planning to investigate tools related to hosting community collaboration and communication. As information is gathered, and backlog items developed, they will be added to this repo..
+  source: GitHub
+  tags: 
+    - BCDevExchange
+    - Lab Tools
+    - Labs
+    - Inspiration
+    - Collaboration
+  url: https://github.com/BCDevExchange/Community-Tools
+
+- 
+  title: BC Laws API Management
+  description: BCDevExchange has been investigating the use of an API Management Tool (currently WSO2) to help provide various functions for managing APIs. This project involves using BCLaws as a pathfinder to illustrate how the API Management tool would be integrated with other BCDevExchange components. Currently in the Lab / Exploration.
+  source: GitHub
+  tags: 
+    - BCLaws
+    - API Management
+    - Labs
+    - WSO2
+  url: https://github.com/BCDevExchange/BCLaws-API-Management
+
+- 
+  title: BCDevExchange Application
+  description: The BCDevExchange website is the public facing site for the BC Developers' Exchange - an experiment in tech innovation and collaboration.
+  source: GitHub
+  tags: 
+    - BCDevExchange
+    - Application
+    - Labs
+  url: https://github.com/BCDevExchange/BCDevExchange-app
+
