@@ -10,18 +10,6 @@
 #  source:   #GitHub or other
 
 - 
-  title: Community Tools
-  description: BCDevExchange is planning to investigate tools related to hosting community collaboration and communication. As information is gathered, and backlog items developed, they will be added to this repo..
-  source: GitHub
-  tags: 
-    - BCDevExchange
-    - Lab Tools
-    - Labs
-    - Inspiration
-    - Collaboration
-  url: https://github.com/BCDevExchange/Community-Tools
-
-- 
   title: BC Laws API Management
   description: BCDevExchange has been investigating the use of an API Management Tool (currently WSO2) to help provide various functions for managing APIs. This project involves using BCLaws as a pathfinder to illustrate how the API Management tool would be integrated with other BCDevExchange components. Currently in the Lab / Exploration.
   source: GitHub
